@@ -1,4 +1,6 @@
-### My_Piscine
+<img src="https://github.com/MirkokriM/My_Piscine/blob/main/README.FILE/MirkokriM_github42_MyPiscine.gif">
+
+### My Piscine
 All the C and Shell project. Piscine 2022/10
 
 <table border=3 <tr>
