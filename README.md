@@ -1,5 +1,3 @@
-<img src ="https://github.com/MirkokriM/42_githubUtils/blob/master/42_README_UTILS/MirkokriM_github42_MyPiscine.gif">
-
 ### My_Piscine
 All the C and Shell project. Piscine 2022/10
 
